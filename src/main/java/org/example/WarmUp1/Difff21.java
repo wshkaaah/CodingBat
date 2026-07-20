@@ -1,6 +1,6 @@
 package org.example.WarmUp1;
 
-public class diff21 {
+public class Difff21 {
     public int diff21(int n) {
         if(n>21){
             return (n-21)*2;
